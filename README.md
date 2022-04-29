@@ -18,4 +18,4 @@ None
 
 This is my additional change
 
-This is the second
+This is the second change
