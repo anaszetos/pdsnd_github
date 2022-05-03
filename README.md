@@ -16,6 +16,7 @@ Cities' Data
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 None
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 1st change
 2nd change
@@ -26,3 +27,9 @@ This is my additional change
 
 This is the second change
 >>>>>>> documentation
+||||||| 41688e3
+
+1st change
+2nd change
+=======
+>>>>>>> b06de74b323ccf3c3e7fb694a4828b510f40d436
