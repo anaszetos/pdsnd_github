@@ -15,6 +15,14 @@ Cities' Data
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 None
+<<<<<<< HEAD
 
 1st change
 2nd change
+||||||| 60e5926
+=======
+
+This is my additional change
+
+This is the second change
+>>>>>>> documentation
